@@ -1,0 +1,1 @@
+Shitty dynamic linker for the 3DS. Can execute code from .so, also I think can execute code from .cro. Was copied and re-adapted only by so_loader on PSV (thx TheOfficialFlow and rinnegatamante for this)
